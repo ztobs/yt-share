@@ -1,0 +1,16 @@
+{
+    "name": "ztobs/yt-share",
+    "description": "Simple tool to share private youtube videos",
+    "type": "project",
+    "require": {
+        "behat/mink": "v1.7.1",
+        "behat/mink-goutte-driver": "v1.2.1"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Lukan Joseph",
+            "email": "ztobscieng@gmail.com"
+        }
+    ]
+}
