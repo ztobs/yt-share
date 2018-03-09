@@ -7,7 +7,7 @@ You can extend its functions and improve on it.
 * Since only private emails can be shared via email, the script 1st converts to private video.
 * Update the run.php file and set the parameters like email, password and share_emails.
 * Just two lines are written to console, login state and sharing state.
-
+* You need to "Allow less secure apps" from this url https://myaccount.google.com/security?utm_source=OGB&utm_medium=app#connectedapps for this tool to work.
 
 
 Enjoy while it lasts.
